@@ -23,7 +23,7 @@ This is a set of Jupyter Notebook scripts used in this study to construct regres
 
       Script jupyter_notebooks/Model A - ECFP6 - XGBoost - SVR.ipynb
       Script jupyter_notebooks/Model B PaDEL XGBoost SVM Model.ipynb
-      Script jupyter_notebooks/Model C OnionNet-2 XGBoost SVR Model.ipynb
+      Script jupyter_notebooks/Model C DSFE XGBoost SVR Model.ipynb
 
 ---------------------------------------------------------------------------------------------
 
@@ -48,11 +48,11 @@ This is a set of Jupyter Notebook scripts used in this study to construct regres
 
      1. ../data/ECFP6-fingerprint.csv  
      2. ../data/Descriptors_from_3D_PaDEL.csv
-     3. ../data/OnionNet-2.csv
+     3. ../data/DSFE_Residue_atom_pair.csv
 
 -------------------------------------------------------------------------------------------------
 
-###5. Output Data
+### 5. Output Data
 
       - Top 10 Feature Importances.png - This file visualizes the results of feature selection and importance evaluation, highlighting the top ten most important features.
       - Learning curve.png - This image depicts a learning curve, which is used to evaluate the performance of machine learning models.
